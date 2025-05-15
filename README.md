@@ -15,23 +15,23 @@ The goal of this study is to analyze and predict the **water productivity per un
 The dataset contains time-series measurements collected from a solar still experiment. Each row corresponds to a specific day and time with the following features:
 
 ### 🔢 Input Features:
-- `Day`: Experiment day
-- `Time`: Time of the measurement
-- `Solar irradiance (W/m²)`: Solar radiation intensity
-- `Inner glass temperature`: Temperature of the inner glass surface
-- `Outer glass temperature`: Temperature of the outer glass surface
-- `Basin water temperature`: Temperature of the water in the basin
-- `Fresh water production (ml)`: Amount of water produced
-- `Ambient temperature`: Surrounding air temperature
-- `Area (m²)`: Surface area of the solar still
+- `Day`: Experiment day  
+- `Time`: Time of the measurement  
+- `Solar irradiance (W/m²)`: Solar radiation intensity  
+- `Inner glass temperature`: Temperature of the inner glass surface  
+- `Outer glass temperature`: Temperature of the outer glass surface  
+- `Basin water temperature`: Temperature of the water in the basin  
+- `Fresh water production (ml)`: Amount of water produced  
+- `Ambient temperature`: Surrounding air temperature  
+- `Area (m²)`: Surface area of the solar still  
 
 ### 🎯 Output Targets:
-- `mw (L/m²)`: Water productivity per unit area
-- `Thermal energy efficiency`: Efficiency of converting solar energy into thermal energy for water distillation
+- `mw (L/m²)`: Water productivity per unit area  
+- `Thermal energy efficiency`: Efficiency of converting solar energy into thermal energy for water distillation  
 
 ## 🛠️ Usage
 
 This repository can be used to:
-- Explore the relationship between solar and thermal parameters and water output
-- Build regression models (e.g., SVR, XGBoost) to predict water productivity and thermal efficiency
-- Apply optimization algorithms (e.g., Whale Optimization Algorithm) for hyperparameter tuning
+- Explore the relationship between solar and thermal parameters and water output  
+- Build regression models (e.g., SVR, XGBoost) to predict water productivity and thermal efficiency  
+- Apply optimization algorithms (e.g., Whale Optimization Algorithm) for hyperparameter tuning  
