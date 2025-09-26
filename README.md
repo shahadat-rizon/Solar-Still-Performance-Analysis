@@ -31,7 +31,7 @@ The dataset contains time-series measurements collected from a solar still exper
 
 ## 🛠️ Usage
 
-This repository enables users to:
+### This repository enables users to:
 
 -Analyze how solar and thermal parameters affect water output and thermal energy efficiency using advanced regression techniques.
 -Develop and evaluate machine learning models—including SVR, XGBoost, Random Forest, and Neural Networks—to predict water productivity and thermal efficiency from experimental data.
