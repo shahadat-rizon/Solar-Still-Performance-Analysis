@@ -33,8 +33,8 @@ The dataset contains time-series measurements collected from a solar still exper
 
 ### This repository enables users to:
 
--Analyze how solar and thermal parameters affect water output and thermal energy efficiency using advanced regression techniques.
--Develop and evaluate machine learning models—including SVR, XGBoost, Random Forest, and Neural Networks—to predict water productivity and thermal efficiency from experimental data.
--Apply ensemble modeling and log-transformation strategies to improve prediction accuracy.
--Assess model performance with comprehensive evaluation metrics such as MAE, RMSE, R², and more.
--Visualize actual vs. predicted results with detailed series and scatter plots for both training and test datasets.
+- Analyze how solar and thermal parameters affect water output and thermal energy efficiency using advanced regression techniques.
+- Develop and evaluate machine learning models—including SVR, XGBoost, Random Forest, and Neural Networks—to predict water productivity and thermal efficiency from experimental data.
+- Apply ensemble modeling and log-transformation strategies to improve prediction accuracy.
+- Assess model performance with comprehensive evaluation metrics such as MAE, RMSE, R², and more.
+- Visualize actual vs. predicted results with detailed series and scatter plots for both training and test datasets.
